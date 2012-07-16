@@ -1,0 +1,13 @@
+10,12d9
+< ''' Python imports '''
+< import random
+< 
+245c242
+<             #print lfPeaks
+---
+>             # print lfPeaks
+248,251d244
+<             
+<             ''' perturb value '''
+<             random.seed(i)
+<             tsRet[i] += random.uniform( -0.0001, 0.0001 )

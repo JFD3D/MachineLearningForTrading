@@ -1,0 +1,36 @@
+testing feature set [0]
+corr coef = 0.0122
+testing feature set [1]
+corr coef = 0.0117
+testing feature set [2]
+corr coef = 0.0056
+testing feature set [3]
+corr coef = 0.0179
+testing feature set [4]
+corr coef = 0.0440
+testing feature set [5]
+corr coef = 0.0319
+testing feature set [6]
+corr coef = 0.0261
+testing feature set [7]
+corr coef = -0.0028
+testing feature set [8]
+corr coef = 0.0071
+testing feature set [4, 0]
+corr coef = 0.0026
+testing feature set [4, 1]
+corr coef = 0.0102
+testing feature set [4, 2]
+corr coef = 0.0359
+testing feature set [4, 3]
+corr coef = 0.0065
+testing feature set [4, 5]
+corr coef = 0.0306
+testing feature set [4, 6]
+corr coef = 0.0041
+testing feature set [4, 7]
+corr coef = 0.0329
+testing feature set [4, 8]
+corr coef = 0.0173
+best feature set is [4]
+corr coef = 0.0440
